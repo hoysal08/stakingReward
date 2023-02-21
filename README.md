@@ -12,3 +12,7 @@ Run test cases using
 ```shell
 npx hardhat test
 ```
+Deploy Contracts using
+```shell
+npx hardhat run scripts/deploy.js
+```
